@@ -1,6 +1,11 @@
 
 *.png
 *.pdf
+<<<<<<< HEAD
 Assignment Homework 3/*/
 Assignment Homework 4/*/
 Assignment Homework 5/*/
+=======
+*.zip
+Lab_12/*/
+>>>>>>> f6519fe (Ignores extensions specified in the file)
